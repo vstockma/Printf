@@ -63,7 +63,7 @@ int	ft_printf(const char *str, ...)
 	va_end(args);
 	return (len);
 }
-
+/* 
 int	main()
 {
 	char		c = 100;
@@ -114,3 +114,4 @@ int	main()
 	printf("orglen: %d  len: %d\n\n", orglen, len);
 }
 
+*/
